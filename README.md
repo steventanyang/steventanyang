@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=steventanyang&color=dc143c)
+![](https://komarev.com/ghpvc/?username=steventanyang&color=04356f)
 
 Hi! I'm Steven, a software eng student at waterloo.
 I like building, playing basketball, and design.
